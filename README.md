@@ -12,41 +12,31 @@ To generate actionable insights from HR data by exploring key workforce metrics 
 -> Top earners and salary ranges
 -> Growth trends over time
 
-# Dataset
+# Dataset used
+- <a href="https://github.com/sowmyasurisetty/DataAnalysis-PowerBi-Dashboard/blob/main/hr-data.xlsx">Dataset</a>
 The dataset includes:
 - Employee details: Name, Gender, Age, Department, Salary, Rating
 - Country: India or New Zealand
 - Date of joining
 
-# Key Features of the Dashboard
+# Questions
+1. How many people are there in each department?
+2. Gender distribution by department
+3. Age spread of our staff (histogram)
+4. Min / max / average salary in each department
+5. Top earners in each country
+6. Performance Spread (sort by column)
+7. Company growth trend
+8. Employee Filter (by starting letter)
+9. Performance vs. Salary - is there any relationship
+10. India vs. New Zealand - quick scorecard
 
-✅ India vs. New Zealand 
-– Quick Scorecard
-- Average Salary Comparison
-- Total Headcount
-- Department-wise employee distribution
-✅ Department Analysis
-- Headcount by Department
-- Gender distribution (stacked & % view)
-- Salary range by department
-✅ Demographics Insights
-- Age distribution (Histogram and bins)
-- Gender & performance rating distribution
-✅ Salary Insights
-- Top earners by country
-- Min / Max / Avg salary by department
-✅ Performance Insights
-- Headcount by Rating (Very Poor → Exceptional)
-- Relation of Rating to Salary
-✅ Growth Tracking
-- Employees hired per month/quarter/year
-✅ Filters
-- Country-wise view
-- Alphabetical filtering of employee names
-
-#Screenshots
+# Screenshots
 # India vs New Zealand Scorecard
-# Department-wise Analysis
+-<a href = https://github.com/sowmyasurisetty/DataAnalysis-PowerBi-Dashboard/blob/main/Screenshot1.png</a>SS2
+# DashBoard
+-<a href =https://github.com/sowmyasurisetty/DataAnalysis-PowerBi-Dashboard/blob/main/Screenshot%202025-07-16%20211721.png</a>SS1
+
 
 # Tools Used
 - Power BI
