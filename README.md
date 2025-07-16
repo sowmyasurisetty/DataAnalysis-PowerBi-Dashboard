@@ -31,15 +31,27 @@ The dataset includes:
 9. Performance vs. Salary - is there any relationship
 10. India vs. New Zealand - quick scorecard
 
+# Process
+-Data Cleaning & Preparation
+-Imported Dataset into Power BI
+-Created Relationships & Data Model
+-Designed Visuals and Pages
+-Applied Filters and Interactivity
+-Exported Dashboard
+
 # Screenshots
 # India vs New Zealand Scorecard
 -<a href = https://github.com/sowmyasurisetty/DataAnalysis-PowerBi-Dashboard/blob/main/Screenshot1.png</a>SS2
 # DashBoard
 -<a href =https://github.com/sowmyasurisetty/DataAnalysis-PowerBi-Dashboard/blob/main/Screenshot%202025-07-16%20211721.png</a>SS1
 
-
 # Tools Used
-- Power BI
+-Power BI
+-DAX
+-Data Modeling
+-Data Cleaning
+-Data Visualization
+-Power BI Filters & Slicers
 - Microsoft Excel / CSV (for data pre-processing)
 
 # Insights Gained
